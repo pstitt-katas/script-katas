@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 isBalanced() {
 	input=$1
